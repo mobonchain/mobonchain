@@ -4,21 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobonchain&label=Profile%20views&color=0e75b6&style=flat" alt="mobonchain" /> <a href="https://github.com/mobonchain"> <img src="https://img.shields.io/github/followers/mobonchain?label=Follow&style=social" alt="Follow" /> </a> </p>
 
 
-<p align="left">
-  🔭 I am currently working on 
-  [![Telegram TopAME](https://img.shields.io/badge/TopAME-blue?logo=telegram&style=flat-square)](https://t.me/xTopAME)
-  <img src="https://komarev.com/ghpvc/?username=mobonchain&label=Profile%20views&color=0e75b6&style=flat" alt="mobonchain" />
-  <a href="https://github.com/<your_github_username>">
-    <img src="https://img.shields.io/github/followers/<your_github_username>?label=Follow&style=social" alt="Follow" />
-  </a>
-</p>
+- 🔭 I am currently working on [![Follow on Telegram](https://img.shields.io/badge/Follow%20on-Telegram-blue?logo=telegram&style=flat)](https://t.me/xTopAME)
 
 
 - 📫 How to reach me : **cactuong9999@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xmobgm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xmobgm" height="30" width="40" /></a>
-</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mobonchain&show_icons=true&locale=en" alt="mobonchain" /></p>
