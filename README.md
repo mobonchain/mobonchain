@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobonchain&label=Profile%20views&color=0e75b6&style=flat" alt="mobonchain" /> <a href="https://github.com/mobonchain"> <img src="https://img.shields.io/github/followers/mobonchain?label=Follow&style=social" alt="Follow" /> </a> </p>
 
-- [![TopAME | Bullish - Cheerful](https://img.shields.io/badge/TopAME%20|%20Bullish--Cheerful-blue?logo=telegram&style=flat)](https://t.me/xTopAME)
+- [![TopAME | Bullish - Cheerful](https://img.shields.io/badge/TopAME%20|%20Bullish--%20-Cheerful-blue?logo=telegram&style=flat)](https://t.me/xTopAME)
 
 - 📫 How to reach me : **cactuong9999@gmail.com**
 
