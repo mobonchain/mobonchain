@@ -4,7 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobonchain&label=Profile%20views&color=0e75b6&style=flat" alt="mobonchain" /> <a href="https://github.com/mobonchain"> <img src="https://img.shields.io/github/followers/mobonchain?label=Follow&style=social" alt="Follow" /> </a> </p>
 
 
-- 🔭 I am currently working on [![Telegram TopAME ](https://img.shields.io/badge/TopAME-blue?logo=telegram&style=flat-square)](https://t.me/xTopAME)
+<p align="left">
+  🔭 I am currently working on 
+  [![Telegram TopAME](https://img.shields.io/badge/TopAME-blue?logo=telegram&style=flat-square)](https://t.me/xTopAME)
+  <img src="https://komarev.com/ghpvc/?username=mobonchain&label=Profile%20views&color=0e75b6&style=flat" alt="mobonchain" />
+  <a href="https://github.com/<your_github_username>">
+    <img src="https://img.shields.io/github/followers/<your_github_username>?label=Follow&style=social" alt="Follow" />
+  </a>
+</p>
+
 
 - 📫 How to reach me : **cactuong9999@gmail.com**
 
